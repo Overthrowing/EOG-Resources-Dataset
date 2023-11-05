@@ -1,4 +1,4 @@
-﻿EventID,ActiveEPCount,EPID,EPLatitude,EPLongitude,EmissionCategory,UTCStart,UTCEnd,Duration,BFE,BFT,tStart,tEnd
+EventID,NumberSourcesLeaking,LeakPointId,Latitude,Longitude,EmissionCategory,UTCStart,UTCEnd,Duration,LeakRate,BFT,tStart,tEnd
 65,2,4T-11,40.59575,-105.13989,Fugitive,2023-04-19_01:22:38.000000,2023-04-19_01:37:37.000000,899,67.13679,ReferenceMeteredEvent,1681867358,1681868257
 65,2,5W-34,40.595688,-105.13939,Fugitive,2023-04-19_01:22:38.000000,2023-04-19_01:37:37.000000,899,33.01506,ReferenceMeteredEvent,1681867358,1681868257
 66,2,4T-11,40.59575,-105.13989,Fugitive,2023-04-19_01:37:37.000000,2023-04-19_02:07:37.000000,1800,67.13679,ReferenceMeteredEvent,1681868257,1681870057
