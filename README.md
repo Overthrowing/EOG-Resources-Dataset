@@ -12,7 +12,7 @@ The specific facility the data is drawn from is shown here:
 
 ```sensor_readings.csv```
 
-This file gives the methane concentration readings for the 24 sensors at the facility. The unit of the concentration values is not important. Please note the sensors are effected by temperature and humidity. Every sensor has a unique key that gives a latitude and longitude within the key.
+This file gives the methane concentration readings for the 24 sensors at the facility. The sensors are capable of being effected by temperature and humidity. Every sensor has a unique key that gives a latitude and longitude within the key.
 
 ---
 
