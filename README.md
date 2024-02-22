@@ -14,6 +14,8 @@ The specific facility the data is drawn from is shown here:
 
 This file gives the methane concentration readings for the 24 sensors at the facility. The sensors are capable of being effected by temperature and humidity. Every sensor has a unique key that gives a latitude and longitude within the key.
 
+Units:
+- `SensorData` - Parts per Billion (ppb)
 ---
 
 ```leak_locations_and_rate.csv```
